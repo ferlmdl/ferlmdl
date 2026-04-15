@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fernanda (@ferlmdl)</h1>
+<h1> Hi, I'm Fernanda (@ferlmdl)</h1>
 
 
 
@@ -47,19 +47,3 @@
 
 
 <br>
-
-
-
-## Connect with me
-
-
-
-<div align="left">
-
-  <a href="https://linkedin.com/in/fernanda-valencia-c" target="_blank">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
-  </a>
-
-</div>
